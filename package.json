@@ -9,12 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
+    "@reduxjs/toolkit": "^1.9.5",
     "@types/node": "20.8.0",
     "@types/react": "18.2.24",
     "@types/react-dom": "18.2.8",
+    "@types/superagent": "^4.1.16",
+    "json-server": "^0.17.4",
+    "nanoid": "^5.0.1",
     "next": "13.5.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.47.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "sass": "^1.68.0",
     "typescript": "5.2.2"
   }
 }

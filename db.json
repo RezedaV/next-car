@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": 134,
+      "images": [
+        "615edbad4c35b.png",
+        "615edbad4c35c.png",
+        "615edbad4c35d.png"
+      ],
+      "name": "Volvo XC70, 2007",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": "8000000",
+      "contacts": "seller@mail.ru",
+      "technical_characteristics": {
+        "car_id": 45,
+        "brand": "Volvo",
+        "model": "XC70",
+        "productionYear": 2007,
+        "body": "body",
+        "mileage": 200000
+      },
+      "options": [
+        {
+          "option_name": "Климат-контроль"
+        },
+        {
+          "option_name": "Кожаный руль"
+        },
+        {
+          "option_name": "Центральный замок"
+        }
+      ],
+      "model": "ghmh",
+      "null": ""
+    },
+    {
+      "id": 135,
+      "images": [
+        "615edbad4c35b.png"
+      ],
+      "name": "Жигули XC70, 1995",
+      "description": "в отличном состоянии. Пробег 200000 км.",
+      "price": "55500",
+      "contacts": "seller@mail.ru",
+      "technical_characteristics": {
+        "car_id": 45,
+        "brand": "Жигули",
+        "model": "XC70",
+        "productionYear": 1995,
+        "body": "body",
+        "mileage": 200000
+      },
+      "options": [
+        {
+          "option_name": "Кожаный руль"
+        }
+      ],
+      "model": "123",
+      "null": ""
+    },
+    {
+      "id": 136,
+      "images": [
+        "615edbad4c35d.png"
+      ],
+      "name": "Honda XC70, 2007",
+      "description": "в отличном состоянии. Пробег 200000 км.",
+      "price": "111",
+      "contacts": "seller@mail.ru",
+      "technical_characteristics": {
+        "car_id": 45,
+        "brand": "Honda",
+        "model": "XC70",
+        "productionYear": 2007,
+        "body": "body",
+        "mileage": 200000
+      },
+      "options": [
+        {
+          "option_name": "Центральный замок"
+        }
+      ],
+      "model": "ghmh",
+      "null": ""
+    }
+  ]
+}
